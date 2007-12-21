@@ -8,6 +8,7 @@ Source0: %{name}-%{version}.tar.bz2
 Summary: Python-mcrypt is a comprehensive Python interface to the mcrypt library
 License: GPL
 Group: Development/Python
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Url: http://labix.org/python-mcrypt
 Requires: python 
 BuildRequires: libpython-devel
