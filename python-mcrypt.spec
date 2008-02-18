@@ -35,4 +35,6 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(-,root,root)
 %doc LICENSE NEWS AUTHORS
 %py_platsitedir/mcrypt.so
+%py_platsitedir/python_mcrypt-*info
+
 
