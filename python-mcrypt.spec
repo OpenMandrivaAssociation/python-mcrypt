@@ -5,7 +5,7 @@ Name: python-mcrypt
 Version: %{version}
 Release: %{release}
 Source0: %{name}-%{version}.tar.bz2
-Summary: Python-mcrypt is a comprehensive Python interface to the mcrypt library
+Summary: Comprehensive Python interface to the mcrypt library
 License: GPL
 Group: Development/Python
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
