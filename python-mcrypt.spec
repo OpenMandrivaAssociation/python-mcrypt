@@ -1,5 +1,5 @@
 %define version 1.1
-%define release %mkrel 3
+%define release %mkrel 5
 
 Name: python-mcrypt
 Version: %{version}
