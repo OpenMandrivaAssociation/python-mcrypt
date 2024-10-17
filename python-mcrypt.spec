@@ -8,7 +8,7 @@ Source0: %{name}-%{version}.tar.bz2
 Summary: Comprehensive Python interface to the mcrypt library
 License: GPL
 Group: Development/Python
-Url: http://labix.org/python-mcrypt
+Url: https://labix.org/python-mcrypt
 Requires: python 
 BuildRequires: python-devel
 BuildRequires: libmcrypt-devel
